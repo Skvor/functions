@@ -9,11 +9,11 @@
         {
             "name": "Artem Skvorcov",
             "email": "skvorro@gmail.com",
-            "homepage": "http://elementary.pw",
+            "homepage": "http://elementary.pw"
         },
     ],
     "support": {
-        "source": "https://github.com/skvor/functions",
+        "source": "https://github.com/skvor/functions"
     },
     "require": {
         "php":">=5.4.0"
