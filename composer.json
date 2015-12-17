@@ -10,7 +10,7 @@
             "name": "Artem Skvorcov",
             "email": "skvorro@gmail.com",
             "homepage": "http://elementary.pw"
-        },
+        }
     ],
     "support": {
         "source": "https://github.com/skvor/functions"
