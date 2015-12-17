@@ -1,0 +1,27 @@
+{
+    "name": "skvor/functions",
+    "description": "Functions",
+    "type": "library",
+    "license": "BSD-2-Clause",
+    "keywords": ["skvor", "functions"],
+    "homepage": "https://github.com/skvor/functions",
+    "authors": [
+        {
+            "name": "Artem Skvorcov",
+            "email": "skvorro@gmail.com",
+            "homepage": "http://elementary.pw",
+        },
+    ],
+    "support": {
+        "source": "https://github.com/skvor/functions",
+    },
+    "require": {
+        "php":">=5.4.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
