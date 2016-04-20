@@ -7,4 +7,9 @@ class Sf {
                                     
         return $first_letter . ($lower_str_end ? mb_strtolower($str_end) : $str_end);
     }
+
+    public static function get_first_word($string) {
+    	$arr = explode(' ',trim($string));
+		return $arr[0];
+    }
 }
